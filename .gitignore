@@ -56,3 +56,5 @@ dkms.conf
 
 # Ignore the local compiled executable
 /hello
+day02
+/day12_pointer_arithmetic
